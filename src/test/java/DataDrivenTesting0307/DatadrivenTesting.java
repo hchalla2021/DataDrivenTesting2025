@@ -3,6 +3,6 @@ import org.testng.annotations.Test;
 public class DatadrivenTesting {
     @Test
   public  void DDTest() {
-        System.out.println("Hello123");
+        System.out.println("Hello");
   }
 }
